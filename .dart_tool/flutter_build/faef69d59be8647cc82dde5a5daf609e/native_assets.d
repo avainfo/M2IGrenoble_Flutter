@@ -1,0 +1,1 @@
+ C:\\Users\\anton\\Documents\\Developpement\\Projects\\M2IGrenobleFLutter\\m2igrenobleflutter\\.dart_tool\\flutter_build\\faef69d59be8647cc82dde5a5daf609e\\native_assets.yaml: 
